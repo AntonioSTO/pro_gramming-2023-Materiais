@@ -1,1 +1,1 @@
-# pro_gramming-2023-Materiais
+# Materiais do minicurso de Python Pro_gramming, edição 2023
